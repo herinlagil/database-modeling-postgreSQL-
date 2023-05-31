@@ -8,6 +8,9 @@ and provide performance analysis and reporting. It aims to improve operational e
 customer satisfaction, and overall business success.
 
 
+![Screenshot (61)](https://github.com/herinlagil/database-modeling-postgreSQL-/assets/127740424/0c0d8cd6-55ba-42fc-a8c4-7fe628b61698)
+
+
 HIGHLIGHTS:
 
 The highlights of the pizza store database design include:
